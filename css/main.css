@@ -1494,17 +1494,20 @@
   */
  #about {
 	 background: #FFFFFF;
-	 padding-top: 12rem;
+	 padding-top:15rem;
 	 padding-bottom: 15rem;
+     
+	
+	
  }
  #about .section-intro {
 	 margin-bottom: 3rem;
  }
  
  .intro-info {
-	 margin-top: 4.2rem;
-	 margin-right: -30px;
-	 margin-left: -30px;
+	 margin-top: 5.2rem;
+	 margin-right: -1px;
+	 margin-left: -1px;
  }
  .intro-info img {
 	 height: 9rem;
